@@ -1,0 +1,2 @@
+origin	ist-git@git.uwaterloo.ca:cs349-fall2024/n4kwon.git (fetch)
+origin	ist-git@git.uwaterloo.ca:cs349-fall2024/n4kwon.git (push)

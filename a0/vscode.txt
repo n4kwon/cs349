@@ -1,0 +1,9 @@
+Version: 1.93.0 (Universal)
+Commit: 4849ca9bdf9666755eb463db297b69e5385090e3
+Date: 2024-09-04T13:02:38.431Z
+Electron: 30.4.0
+ElectronBuildId: 10073054
+Chromium: 124.0.6367.243
+Node.js: 20.15.1
+V8: 12.4.254.20-electron.0
+OS: Darwin arm64 22.2.0

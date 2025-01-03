@@ -1,0 +1,38 @@
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEMINFORMATION                                                      Version: 5.23.5 │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+
+Operating System:
+──────────────────────────────────────────────────────────────────────────────────────────
+Platform         : darwin
+Distro           : macOS
+Release          : 13.1
+Codename         : macOS Ventura
+Kernel           : 22.2.0
+Arch             : arm64
+Hostname         : Nathans-MacBook-Pro-2.local
+Codepage         : UTF-8
+Build            : 22C65
+
+System:
+──────────────────────────────────────────────────────────────────────────────────────────
+Manufacturer     : Apple Inc.
+Model            : MacBookPro
+Version          : 17,1
+Virtual          : 
+
+CPU:
+──────────────────────────────────────────────────────────────────────────────────────────
+Manufacturer     : Apple
+Brand            : M1
+Family           : 458787763
+Model            : 
+Stepping         : 2
+Speed            : 2.4
+Cores            : 8
+PhysicalCores    : 8
+PerformanceCores : 4
+EfficiencyCores  : 4
+Processors       : 1
+Socket           : SOC
+
