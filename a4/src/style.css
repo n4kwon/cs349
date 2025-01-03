@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  button {
+    @apply bg-gray-200
+           border border-gray-600 rounded  
+           hover:bg-gray-300 active:bg-gray-200;
+    &:disabled {
+      @apply bg-gray-100 border-gray-400 opacity-50;
+    }
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+.mode-container {
+  flex-direction: column;
+  display: flex;
+  flex-grow: 1;
+}

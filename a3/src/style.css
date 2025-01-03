@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/*Flexbox container */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+.modebar {
+  background-color: lightgrey;
+  width: 100%;
+  /* padding: 10px; */
+  display: flex;
+  justify-content: flex-end;
+}
+
+.mode-container {
+  flex-direction: column;
+  display: flex;
+  flex-grow: 1;
+}

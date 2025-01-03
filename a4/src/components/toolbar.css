@@ -1,0 +1,13 @@
+.toolbar-button {
+  width: 80px;
+  padding: 4px;
+  border: 1px solid black;
+  font: 14px sans-serif;
+}
+
+.toolbar {
+  border: 1px solid black;
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+}

@@ -1,0 +1,17 @@
+div#statusBar {
+  background-color: lightgrey;
+  width: 100%;
+  height: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+#statusMessage {
+  padding-left: 10px;
+}
+
+#cheatingMessage {
+  margin-left: auto;
+  padding-right: 10px;
+}

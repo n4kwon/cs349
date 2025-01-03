@@ -1,0 +1,60 @@
+.editPanelOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.editPanel {
+  /* background-color: lightgrey; */
+  padding: 30px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  /* width: calc(100% - 120px); */
+  height: 260px;
+  width: 380px;
+  max-width: 90%;
+  border: 1px solid black;
+}
+
+.formGroup {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.labelText {
+  font-size: 14px;
+  margin-right: 10px;
+  color: #333;
+  width: 20%;
+  text-align: right;
+}
+
+input[type="text"] {
+  width: 75%;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.saveButton,
+.cancelButton {
+  width: 75px;
+  height: 30px;
+  font-size: 14px;
+  border-radius: 4px;
+}

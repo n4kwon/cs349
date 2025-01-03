@@ -1,0 +1,14 @@
+.question-boxes {
+  gap: 10px;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 8px;
+}
+
+.question-text {
+  margin-right: 8px;
+}
